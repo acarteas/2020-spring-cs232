@@ -1,17 +1,25 @@
+#import certain functions into the global
+#namespace
 from app import app
 from markdown import markdown
 from flask import render_template_string
+from app.blog_helpers import render_markdown
+
+#safe global import (okay to use)
+import flask
+
+#global import (try to avoid)
+#from flask import *
 
 #home page
 @app.route("/")
 def home():
-    return "<h1>My Blog</h1>"
+    return render_markdown('index.md')
 
+#generic page
 @app.route("/<view_name>")
-def about(view_name):
-    about_markdown = ""
-    with open('app/views/'+ view_name +'.md') as contents:
-        about_markdown = contents.read()
-    about_html = markdown(about_markdown)
-    return render_template_string(about_html, view_name=view_name)
-    
+
+#input parameter name must match route parameter
+def render_page(view_name):
+    html = render_markdown(view_name + '.md')
+    return render_template_string(html, view_name = view_name)
