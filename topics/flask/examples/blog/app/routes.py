@@ -2,7 +2,7 @@
 #namespace
 from app import app
 from markdown import markdown
-from flask import render_template_string, request
+from flask import render_template_string, request, session
 from app.blog_helpers import render_markdown
 
 #safe global import (okay to use)
@@ -18,11 +18,12 @@ def home():
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
-    
-    if request.method == 'POST':
 
+    if request.method == 'POST':
+        
         #TODO: process request.values as necessary
-        pass
+        session['user_name'] = request.values['user_name']
+    return ""
 
 #generic page
 @app.route("/<view_name>")
@@ -30,6 +31,7 @@ def login():
 #input parameter name must match route parameter
 def render_page(view_name):
     html = render_markdown(view_name + '.md')
-    return render_template_string(html, view_name = view_name)
+    view_data = {} #create empty dictionary
+    return render_template_string(html, view_data = session)
 
 
