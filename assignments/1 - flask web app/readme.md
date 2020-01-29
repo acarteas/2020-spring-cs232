@@ -2,7 +2,7 @@
 For this assignment, you will extend your basic Flask knowledge by completing a basic website.  At a minimum, your assignment should provide the following functionality:
 
 ## <web_root>/all
-This route will list all pages on your website
+This route will list all pages on your website.  To do this, you will want to list all of the files in the view folder.  (HINT: view [this link](https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory))
 
 ## <web_root>/<page_name>
 This route will render a given page
