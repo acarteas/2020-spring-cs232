@@ -1,6 +1,6 @@
 from markdown import markdown
 import os
-def render_markdown(file_name, dir_path = 'app/views'):
+def render_markdown(file_name, dir_path = 'app/templates'):
     """Takes the specified file path and
     returns it as HTML
     """
