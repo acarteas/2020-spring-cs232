@@ -16,6 +16,19 @@ import flask
 def home():
     return render_markdown('index.md')
 
+@app.route('/all')
+def all():
+    #TODO: figure out how to find all files 
+    #in the app
+    view_data = {}
+    view_data["pages"] = ([ #parens allows for multi
+                            #line statements in Py
+        'about.html',
+        'test.html',
+        'foo.html'
+    ])
+    return render_template("all.html", data = view_data)
+
 @app.route('/login', methods=['GET', 'POST'])
 def login():
 
