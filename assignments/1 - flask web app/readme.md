@@ -1,6 +1,15 @@
 # CS 232 Assignment #1: A Basic Website using Flask
 For this assignment, you will extend your basic Flask knowledge by completing a basic website.  At a minimum, your assignment should provide the following functionality:
 
+# Tips
+If your pages aren't showing updates after you edit them, put
+this in your __init__.py file:
+```
+app.jinja_env.auto_reload = True
+app.config['TEMPLATES_AUTO_RELOAD'] = True
+app.run(debug=True, host='0.0.0.0')
+```
+
 ## <web_root>/all
 This route will list all pages on your website.  To do this, you will want to list all of the files in the view folder.  (HINT: view [this link](https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory))
 
