@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <category term="Python" label="r/Python"/>
+    <updated>2020-02-17T15:22:23+00:00</updated>
+    <icon>https://www.redditstatic.com/icon.png/</icon>
+    <id>/r/Python/.rss</id>
+    <link rel="self" href="https://www.reddit.com/r/Python/.rss" type="application/atom+xml" />
+    <link rel="alternate" href="https://www.reddit.com/r/Python/" type="text/html" />
+    <logo>https://b.thumbs.redditmedia.com/8HiO52_EuT_h63Qg.png</logo>
+    <subtitle>news about the dynamic, interpreted, interactive, object-oriented, extensible programming language Python</subtitle>
+    <title>Python</title>
+    <entry>
+        <author>
+            <name>/u/aphoenix</name>
+            <uri>https://www.reddit.com/user/aphoenix</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Starting today, we&amp;#39;re going to be enforcing flair requirements on all posts.&lt;/p&gt; &lt;p&gt;When you submit something, you&amp;#39;ll be prompted to select a flair. &lt;a href=&quot;/u/AssistantBOT&quot;&gt;u/AssistantBOT&lt;/a&gt; will help - you can reply to the bot with a flair option.&lt;/p&gt; &lt;p&gt;Here are the flairs I have set up:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;News - for python releases, end of life notifications, updates on what Guido is doing, etc&lt;/li&gt; &lt;li&gt;Discussion - for discussing Python events, python development, etc&lt;/li&gt; &lt;li&gt;Help - This one is a trap. If you select it, your post will get removed and you&amp;#39;ll receive a polite message directing you to &lt;a href=&quot;/r/LearnPython&quot;&gt;r/LearnPython&lt;/a&gt; and the Python discord. Ideally this will prevent the front page help spam&lt;/li&gt; &lt;li&gt;I Made This - this is contentious, but I believe that people should be allowed to show off what they&amp;#39;ve worked on. To start with, this will be allowed at all times. &lt;/li&gt; &lt;li&gt;Resource - if you find a cool library to use, awesome book to read, etc.&lt;/li&gt; &lt;li&gt;Editors / IDEs - for discussion about &lt;del&gt;pycharm and vim&lt;/del&gt; I guess any editor&lt;/li&gt; &lt;li&gt;Web Development - a specific topic of discussion&lt;/li&gt; &lt;li&gt;Machine Learning - a specific topic of discussion&lt;/li&gt; &lt;li&gt;Big Data - a specific topic of discussion&lt;/li&gt; &lt;li&gt;Finance - a specific topic of discussion&lt;/li&gt; &lt;li&gt;Systems / Operations - a specific topic of discussion&lt;/li&gt; &lt;li&gt;Testing - a specific topic of discussion&lt;/li&gt; &lt;li&gt;Meta - for discussion pertaining to &lt;a href=&quot;/r/Python&quot;&gt;r/Python&lt;/a&gt; itself&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;I&amp;#39;ve based this on the sorts of things I have observed in &lt;a href=&quot;/r/Python&quot;&gt;r/Python&lt;/a&gt; over the last 8 months. This is not an exhaustive list, and it could potentially be reduced or expanded as necessary. Please feel free to discuss the flair here or in a [Meta] post.&lt;/p&gt; &lt;p&gt;For instructions on filtering, check out our wiki: &lt;a href=&quot;https://www.reddit.com/r/Python/wiki/filters&quot;&gt;https://www.reddit.com/r/Python/wiki/filters&lt;/a&gt; &lt;/p&gt; &lt;p&gt;This is a bit rough; I&amp;#39;ve copied it from another subreddit, and tried to rapidly edit in relevant things. If you experience an error with it, please let me know.&lt;/p&gt; &lt;p&gt;Next steps:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;I&amp;#39;m planning to have a moderator application form ready by end of week, and I&amp;#39;ll start looking for more moderators.&lt;/li&gt; &lt;li&gt;I&amp;#39;ll try to keep the modqueue clear until we add more people.&lt;/li&gt; &lt;li&gt;Please report things that slip through, especially things that are more appropriate for &lt;a href=&quot;/r/learnpython&quot;&gt;r/learnpython&lt;/a&gt;. Please keep in mind that &amp;quot;I made this&amp;quot; style posts are &lt;em&gt;explicitly allowed&lt;/em&gt; even if you don&amp;#39;t like them, so don&amp;#39;t report them; filter them out instead.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Edit: I forgot something:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;AutoModerator tries to avoid contradicting other moderators, and will not approve items that have already been removed by another moderator, or remove items that have already been approved by another mod.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;I&amp;#39;ll have to automate this with a different tool.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/aphoenix&quot;&gt; /u/aphoenix &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/euprlf/changes_to_rpython/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/euprlf/changes_to_rpython/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_euprlf</id>
+        <link href="https://www.reddit.com/r/Python/comments/euprlf/changes_to_rpython/" />
+        <updated>2020-01-27T15:59:27+00:00</updated>
+        <title>Changes to r/Python</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/AutoModerator</name>
+            <uri>https://www.reddit.com/user/AutoModerator</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Tell &lt;a href=&quot;/r/python&quot;&gt;/r/python&lt;/a&gt; what you&amp;#39;re working on this week! You can be bragging, grousing, sharing your passion, or explaining your pain. Talk about your current project or your pet project; whatever you want to share.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AutoModerator&quot;&gt; /u/AutoModerator &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f28tol/whats_everyone_working_on_this_week/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f28tol/whats_everyone_working_on_this_week/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f28tol</id>
+        <link href="https://www.reddit.com/r/Python/comments/f28tol/whats_everyone_working_on_this_week/" />
+        <updated>2020-02-11T14:10:45+00:00</updated>
+        <title>What's everyone working on this week?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/redditNewUser2017</name>
+            <uri>https://www.reddit.com/user/redditNewUser2017</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/redditNewUser2017&quot;&gt; /u/redditNewUser2017 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://v.redd.it/n8nsbsq0pfh41&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f55076/ive_made_a_3d_scanner_thats_fully_automated_using/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f55076</id>
+        <link href="https://www.reddit.com/r/Python/comments/f55076/ive_made_a_3d_scanner_thats_fully_automated_using/" />
+        <updated>2020-02-17T07:12:31+00:00</updated>
+        <title>I've made a 3D scanner that's fully automated using Python script on Android phone!</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Mrsaintj</name>
+            <uri>https://www.reddit.com/user/Mrsaintj</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Mrsaintj&quot;&gt; /u/Mrsaintj &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://v.redd.it/j272pq1uqch41&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f4xfk5/created_a_simple_wallpaper_changer_for_mac_it/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f4xfk5</id>
+        <link href="https://www.reddit.com/r/Python/comments/f4xfk5/created_a_simple_wallpaper_changer_for_mac_it/" />
+        <updated>2020-02-16T21:18:04+00:00</updated>
+        <title>Created a simple wallpaper changer for Mac. (It pulls the wallpaper from unsplash)</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/diecosina</name>
+            <uri>https://www.reddit.com/user/diecosina</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/diecosina&quot;&gt; /u/diecosina &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://diegoinacio.github.io/computer-vision-notebooks/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f586di/this_week_id_like_to_share_my_personal_repository/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f586di</id>
+        <link href="https://www.reddit.com/r/Python/comments/f586di/this_week_id_like_to_share_my_personal_repository/" />
+        <updated>2020-02-17T12:39:49+00:00</updated>
+        <title>This week, I'd like to share my personal repository of Computer Vision notebooks. (I'm always pushing new stuff into this)</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/elmoiv</name>
+            <uri>https://www.reddit.com/user/elmoiv</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/elmoiv&quot;&gt; /u/elmoiv &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://v.redd.it/8tz7hx1bych41&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f4y1ox/i_created_a_smart_auto_typer_for_battletext/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f4y1ox</id>
+        <link href="https://www.reddit.com/r/Python/comments/f4y1ox/i_created_a_smart_auto_typer_for_battletext/" />
+        <updated>2020-02-16T21:59:13+00:00</updated>
+        <title>I created a smart auto typer for BattleText mobile game without using OpenCV</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/arpanghosh8453</name>
+            <uri>https://www.reddit.com/user/arpanghosh8453</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/arpanghosh8453&quot;&gt; /u/arpanghosh8453 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/133j2mxb59h41.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f4oaag/bank_statement_analyzer_gui_with_pandas/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f4oaag</id>
+        <link href="https://www.reddit.com/r/Python/comments/f4oaag/bank_statement_analyzer_gui_with_pandas/" />
+        <updated>2020-02-16T09:11:34+00:00</updated>
+        <title>Bank statement analyzer GUI with pandas, matplotlib and PyQt5</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/ReallyAR</name>
+            <uri>https://www.reddit.com/user/ReallyAR</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ReallyAR&quot;&gt; /u/ReallyAR &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://v.redd.it/327fpn1hfhh41&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f58eyo/i_made_a_small_game_like_space_invaders/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f58eyo</id>
+        <link href="https://www.reddit.com/r/Python/comments/f58eyo/i_made_a_small_game_like_space_invaders/" />
+        <updated>2020-02-17T13:01:30+00:00</updated>
+        <title>I made a small game like space invaders</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/wqking</name>
+            <uri>https://www.reddit.com/user/wqking</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Github: &lt;a href=&quot;https://github.com/wqking/eventpy&quot;&gt;https://github.com/wqking/eventpy&lt;/a&gt;&lt;/p&gt; &lt;p&gt;eventpy is a Python event library that provides tools that enable your application components to communicate with each other by dispatching events and listening for them. With eventpy you can easily implement signal/slot mechanism, or observer pattern.&lt;br/&gt; This library is the Python version rewritten from the C++ library &lt;a href=&quot;https://github.com/wqking/eventpp&quot;&gt;eventpp&lt;/a&gt;, both are developed by the same developer.&lt;/p&gt; &lt;h2&gt;Facts and features&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Powerful&lt;/strong&gt; &lt;ul&gt; &lt;li&gt;Supports synchronous event dispatching and asynchronous event queue.&lt;/li&gt; &lt;li&gt;Configurable and extensible with policies.&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Robust&lt;/strong&gt; &lt;ul&gt; &lt;li&gt;Supports nested event. During the process of handling an event, a listener can safely dispatch event and append/prepend/insert/remove other listeners.&lt;/li&gt; &lt;li&gt;Thread safety. Supports multi-threading.&lt;/li&gt; &lt;li&gt;Well tested. Backed by unit tests.&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Flexible and easy to use&lt;/strong&gt; &lt;ul&gt; &lt;li&gt;Listeners and events can be of any type and do not need to be inherited from any base class.&lt;/li&gt; &lt;li&gt;Requires Python 3. Tested with Python 3.7 and Cython.&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;License&lt;/h2&gt; &lt;p&gt;Apache License, Version 2.0 &lt;/p&gt; &lt;h2&gt;Version 0.0.1&lt;/h2&gt; &lt;p&gt;eventpy is currently usable and stable.&lt;/p&gt; &lt;h2&gt;Source code&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://github.com/wqking/eventpy&quot;&gt;https://github.com/wqking/eventpy&lt;/a&gt;&lt;/p&gt; &lt;p&gt;This library is in early stage, but it should be quite stable and well tested because it was rewritten from my C++ library(eventpp) which was released for long time.&lt;br/&gt; Your feedback and advice are welcome!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/wqking&quot;&gt; /u/wqking &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f57gdk/eventpy_python_library_for_event_dispatcher_event/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f57gdk/eventpy_python_library_for_event_dispatcher_event/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f57gdk</id>
+        <link href="https://www.reddit.com/r/Python/comments/f57gdk/eventpy_python_library_for_event_dispatcher_event/" />
+        <updated>2020-02-17T11:29:11+00:00</updated>
+        <title>eventpy -- Python library for event dispatcher, event queue, and callback list</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/nydstyrk</name>
+            <uri>https://www.reddit.com/user/nydstyrk</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;GitHub: &lt;a href=&quot;https://github.com/sprzedwojski/pymodoro&quot;&gt;https://github.com/sprzedwojski/pymodoro&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Hi all, I work on a Mac and I love it&amp;#39;s Do Not Disturb mode. It blocks all the notifications and allows me to focus on a task at hand.&lt;/p&gt; &lt;p&gt;However, the only way to enable / disable it by default is to do it manually.&lt;/p&gt; &lt;p&gt;I use the pomodoro technique when I work, with blocks of 25 minute focus followed by a 5 minute long break. I caught myself turning the DND on manually at the beginning of the day and forgetting about it until the very end of my workday. And because of that I&amp;#39;d miss some urgent notifications from my coworkers.&lt;/p&gt; &lt;p&gt;That&amp;#39;s why I build Pymodoro. It uses a CLI written in Node, which controls the DND mode on the Mac. It turns it on when the pomodoro starts, and off when it ends.&lt;/p&gt; &lt;p&gt;This way I don&amp;#39;t have to think about DND myself, I don&amp;#39;t miss the notifications and they also don&amp;#39;t disturb me in the &amp;quot;focused&amp;quot; mode.&lt;/p&gt; &lt;p&gt;It&amp;#39;s open source, I encourage you to go check it out :)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/nydstyrk&quot;&gt; /u/nydstyrk &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f59qgd/pymodoro_pomodoro_timer_for_macos_which_turns_on/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f59qgd/pymodoro_pomodoro_timer_for_macos_which_turns_on/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f59qgd</id>
+        <link href="https://www.reddit.com/r/Python/comments/f59qgd/pymodoro_pomodoro_timer_for_macos_which_turns_on/" />
+        <updated>2020-02-17T14:48:10+00:00</updated>
+        <title>Pymodoro - Pomodoro timer for macOS, which turns on the DND (Do Not Disturb) mode for the pomodoro's duration.</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/zrnest</name>
+            <uri>https://www.reddit.com/user/zrnest</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve already made several websites using Bottle or Flask + sqlite as DB, self-hosted on my dedicated server (one single machine). It always worked.&lt;/p&gt; &lt;p&gt;For a new project, I&amp;#39;d like to be able to scale quickly if needed, and I thought about AWS or similar solutions.&lt;/p&gt; &lt;p&gt;A few questions:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;I&amp;#39;ll move sqlite to another DB. What DB would you recommend in the AWS ecosystem? In order to make 2. possible, I can imagine the DB server should &lt;strong&gt;not&lt;/strong&gt; be on the same machine than the actual application server? (because if so, user data recorded from instance #3 would be accessible only to instance #3, which is &lt;em&gt;not&lt;/em&gt; what we want!).&lt;/li&gt; &lt;li&gt;How to make that if one machine is not enough, I can easily replicate &lt;em&gt;the same Python server running Flask&lt;/em&gt; to 2 or 10 machines? And how to make that they still share the same user data?&lt;/li&gt; &lt;li&gt;Should I connect my .py code with WSGI, or does AWS provide a ready-to-use solution to connect Python code running Bottle/Flask/Django? &lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Thanks!&lt;/p&gt; &lt;p&gt;PS: I might change Bottle to Flask, but not decided yet (I&amp;#39;ll do performance tests before).&lt;/p&gt; &lt;p&gt;PS2: Is there a solution without having to manage the server myself, without having to install the OS etc.? i.e. if I could just plug my &amp;quot;app.py&amp;quot; and then click on &amp;quot;+1&amp;quot; or &amp;quot;-1 to add a new instance or delete one, it would be great :)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/zrnest&quot;&gt; /u/zrnest &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f58okw/made_a_website_using_bottle_flask_sqlite_curious/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f58okw/made_a_website_using_bottle_flask_sqlite_curious/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f58okw</id>
+        <link href="https://www.reddit.com/r/Python/comments/f58okw/made_a_website_using_bottle_flask_sqlite_curious/" />
+        <updated>2020-02-17T13:23:54+00:00</updated>
+        <title>Made a website using Bottle / Flask + sqlite. Curious about the best way to go to production with AWS</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/burakcelebi</name>
+            <uri>https://www.reddit.com/user/burakcelebi</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi all,&lt;/p&gt; &lt;p&gt;Hazelcast is a distributed in-memory object store and compute, supporting a wide variety of data structures such as Map, Set, List, MultiMap, RingBuffer, HyperLogLog. It is cloud &amp;amp; Kubernetes friendly.&lt;/p&gt; &lt;p&gt;I wanted to let you know that we have prepared a Code Reference Card for Hazelcast Python client: &lt;a href=&quot;https://hazelcast.com/resources/hazelcast-imdg-python-client/&quot;&gt;https://hazelcast.com/resources/hazelcast-imdg-python-client/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;You can visit the Github repo for &lt;a href=&quot;https://github.com/hazelcast/hazelcast-python-client/&quot;&gt;code samples and API documentation&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;You can install the client via:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;$ pip install hazelcast-python-client &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;or&lt;/p&gt; &lt;pre&gt;&lt;code&gt;$ python setup.py install &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;Currently, we are working on the next major release, i.e v4.0. We&amp;#39;d be really happy to hear your feedback :)&lt;/p&gt; &lt;p&gt;Disclaimer: I&amp;#39;m working at Hazelcast as part of the Clients Team. If you have any feature requests or any feedback, please let me know!&lt;/p&gt; &lt;p&gt;All the best, Burak.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/burakcelebi&quot;&gt; /u/burakcelebi &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f5895c/hazelcast_open_source_distributed_caching_for/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f5895c/hazelcast_open_source_distributed_caching_for/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f5895c</id>
+        <link href="https://www.reddit.com/r/Python/comments/f5895c/hazelcast_open_source_distributed_caching_for/" />
+        <updated>2020-02-17T12:46:49+00:00</updated>
+        <title>Hazelcast / Open Source Distributed Caching for Python</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/glof2</name>
+            <uri>https://www.reddit.com/user/glof2</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/glof2&quot;&gt; /u/glof2 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://v.redd.it/08m70fmuc9h41&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f4ompq/ive_made_a_program_that_simulates_a_freefalling/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f4ompq</id>
+        <link href="https://www.reddit.com/r/Python/comments/f4ompq/ive_made_a_program_that_simulates_a_freefalling/" />
+        <updated>2020-02-16T09:52:00+00:00</updated>
+        <title>I've made a program that simulates a free-falling ball in pygame!</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/diabulusInMusica</name>
+            <uri>https://www.reddit.com/user/diabulusInMusica</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;There&amp;#39;s a hidden disease that infects many machine learning models: overfitting! In my new tutorial, I introduce techniques to diagnose and prevent it.&lt;/p&gt; &lt;p&gt;Specifically, I talk about early stopping, (audio) data augmentation, dropout, L1/L2 regularisation. I also implement dropout and regularisation in the music genre classifier I built in my previous tutorial.&lt;/p&gt; &lt;p&gt;This video is part of the “Deep Learning (for Audio) with Python” series. The series aims to teach Deep Learning from scratch with a focus on audio/music applications.&lt;/p&gt; &lt;p&gt;Here’s the video:&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Gf5DO6br0ts&amp;amp;list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&amp;amp;index=14&quot;&gt;https://www.youtube.com/watch?v=Gf5DO6br0ts&amp;amp;list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&amp;amp;index=14&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Enjoy!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/diabulusInMusica&quot;&gt; /u/diabulusInMusica &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f57o22/tutorial_solving_overfitting_in_neural_nets/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f57o22/tutorial_solving_overfitting_in_neural_nets/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f57o22</id>
+        <link href="https://www.reddit.com/r/Python/comments/f57o22/tutorial_solving_overfitting_in_neural_nets/" />
+        <updated>2020-02-17T11:50:51+00:00</updated>
+        <title>[Tutorial] Solving overfitting in neural nets</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/lukeslab</name>
+            <uri>https://www.reddit.com/user/lukeslab</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I was told I did quite well and my program checked all the boxes, so I figured it could be helpful to those learning to code with the goal of getting a coding job in the future. If you&amp;#39;re wondering whether you&amp;#39;re already employable with your level of Python skills, why not try the challenge?&lt;/p&gt; &lt;p&gt;This was posted with the permission of the company.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://github.com/lukeclopez/CompanyCodingTest&quot;&gt;CompanyCodingTest&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Feel free to reach out to me with questions, constructive criticism (including nit-picks), and the like. I hope someone can find it useful!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lukeslab&quot;&gt; /u/lukeslab &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f50ky5/a_coding_challenge_for_a_company_i_applied_to/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f50ky5/a_coding_challenge_for_a_company_i_applied_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f50ky5</id>
+        <link href="https://www.reddit.com/r/Python/comments/f50ky5/a_coding_challenge_for_a_company_i_applied_to/" />
+        <updated>2020-02-17T01:08:27+00:00</updated>
+        <title>A coding challenge for a company I applied to recently. Includes coding test instructions, documentation, and unit tests.</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/swordythomas</name>
+            <uri>https://www.reddit.com/user/swordythomas</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi, I created a 2D car game in pyglet for learning algorithms to learn to play it. Then I created a genetic algorithm to teach a neural network to learn to play it. The neural network inputs are the wall distances around the car, as a lidar would see on the top of the car. It outputs the moving directions. Let me know your thoughts. &lt;a href=&quot;https://github.com/swordey/Genetic2DCarGame&quot;&gt;https://github.com/swordey/Genetic2DCarGame&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/swordythomas&quot;&gt; /u/swordythomas &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f53zf5/genetic_algorithm_teaches_a_neural_network_to/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f53zf5/genetic_algorithm_teaches_a_neural_network_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f53zf5</id>
+        <link href="https://www.reddit.com/r/Python/comments/f53zf5/genetic_algorithm_teaches_a_neural_network_to/" />
+        <updated>2020-02-17T05:38:35+00:00</updated>
+        <title>Genetic Algorithm teaches a Neural Network to beat a 2D car game</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/sergbur</name>
+            <uri>https://www.reddit.com/user/sergbur</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Github repo: &lt;a href=&quot;https://github.com/sergioburdisso/pyss3&quot;&gt;https://github.com/sergioburdisso/pyss3&lt;/a&gt;&lt;/p&gt; &lt;p&gt;This python package implements a novel machine learning model for text classification and comes with a set of visualizations tools for Explainable Artificial Intelligence.&lt;/p&gt; &lt;p&gt;I&amp;#39;ve decided to share this open source project with you guys in case some kind-hearted person(s) would like to contribute, which will be really awesome since any kind of help is very welcome (Typos, Code, Bug reports, Content, Data, Documentation, Design, Examples, Ideas, Feedback, etc.). I will add a list of &amp;quot;Contributors&amp;quot; in the README file following the &lt;a href=&quot;https://allcontributors.org/&quot;&gt;all-contributors&lt;/a&gt; specification (&amp;quot;Recognize All Contributors, Including those that don&amp;#39;t push code&amp;quot;).&lt;/p&gt; &lt;p&gt;Have an awesome day everyone!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/sergbur&quot;&gt; /u/sergbur &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f59jur/i_would_like_to_share_an_open_source_project_ive/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f59jur/i_would_like_to_share_an_open_source_project_ive/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f59jur</id>
+        <link href="https://www.reddit.com/r/Python/comments/f59jur/i_would_like_to_share_an_open_source_project_ive/" />
+        <updated>2020-02-17T14:34:25+00:00</updated>
+        <title>I would like to share an open source project I've started a couple of months ago...</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/durZo2209</name>
+            <uri>https://www.reddit.com/user/durZo2209</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So I&amp;#39;ve been trying to write a python script to download a file from my s3 bucket but have run into some foundational issues. &lt;/p&gt; &lt;p&gt;I set the lambda function in AWS to have the .IAM role it needs to access the s3 bucket I am using and only it, but I keep getting strange issues getting to the bucket like Lambda telling me I need the requests library when I feel like I shouldn&amp;#39;t, or saying I&amp;#39;m not sending enough arguments through which makes no sense to me. &lt;/p&gt; &lt;p&gt;Does anyone have any advice for getting a python script setup to do this?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/durZo2209&quot;&gt; /u/durZo2209 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f59fo7/using_boto3_and_aws_lambda_to_download_from_an_s3/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f59fo7/using_boto3_and_aws_lambda_to_download_from_an_s3/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f59fo7</id>
+        <link href="https://www.reddit.com/r/Python/comments/f59fo7/using_boto3_and_aws_lambda_to_download_from_an_s3/" />
+        <updated>2020-02-17T14:25:12+00:00</updated>
+        <title>Using boto3 and AWS Lambda to download from an s3 bucket</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/eighttails3030</name>
+            <uri>https://www.reddit.com/user/eighttails3030</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I asked a similar question but this one is more particular. I want to create a master list of entity names based off of a list of about 170,000 names (some repeats) I want to iterate through these two lists and see if the Account # is attached to more than just one &amp;quot;name&amp;quot; (an example would be account # 1129 being for both &amp;quot;Video Movies inc&amp;quot; and &amp;quot;Video Movies Incorporated&amp;quot;). How would I do this in python?&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://preview.redd.it/f57enpjtqhh41.png?width=602&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b175c18a840238793910acac61b43c03dd7f6fcb&quot;&gt;https://preview.redd.it/f57enpjtqhh41.png?width=602&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b175c18a840238793910acac61b43c03dd7f6fcb&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/eighttails3030&quot;&gt; /u/eighttails3030 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f595yp/create_a_key_and_compare_lists/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f595yp/create_a_key_and_compare_lists/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f595yp</id>
+        <link href="https://www.reddit.com/r/Python/comments/f595yp/create_a_key_and_compare_lists/" />
+        <updated>2020-02-17T14:04:17+00:00</updated>
+        <title>Create a key and compare lists</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/python959</name>
+            <uri>https://www.reddit.com/user/python959</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/python959&quot;&gt; /u/python959 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=uRzlN5C87P4&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f4yem7/made_a_youtube_channel_to_help_provide_python/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f4yem7</id>
+        <link href="https://www.reddit.com/r/Python/comments/f4yem7/made_a_youtube_channel_to_help_provide_python/" />
+        <updated>2020-02-16T22:25:38+00:00</updated>
+        <title>Made a Youtube channel to help provide Python programmers the chance to build their skills through projects</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/amparee</name>
+            <uri>https://www.reddit.com/user/amparee</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I just developed this code and coming from java it makes me noise since in all methods you have to pass the same parameters.&lt;/p&gt; &lt;p&gt;If sftp.py were a class, I initialize with the data (host, user &amp;amp; pass) and then I call the methods with fewer parameters.&lt;/p&gt; &lt;p&gt;I have read that in python classes are not used but for this case, I see it neater and we have less redundancy.&lt;/p&gt; &lt;p&gt;The code developed is used to connect to sftp and get filenames, upload, delete and get files.&lt;/p&gt; &lt;p&gt;Here is the code: &lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;&lt;code&gt;import io&lt;/code&gt;&lt;br/&gt; &lt;code&gt;import logging.config&lt;/code&gt;&lt;br/&gt; &lt;code&gt;from datetime import datetime, timedelta&lt;/code&gt;&lt;br/&gt; &lt;code&gt;import zipfile&lt;/code&gt;&lt;br/&gt; &lt;code&gt;import pysftp&lt;/code&gt; &lt;/p&gt; &lt;p&gt;&lt;code&gt;cnopts = pysftp.CnOpts()&lt;/code&gt;&lt;br/&gt; &lt;code&gt;cnopts.hostkeys = None&lt;/code&gt;&lt;br/&gt; &lt;code&gt;logging.config.fileConfig(&amp;#39;logging.conf&amp;#39;)&lt;/code&gt;&lt;br/&gt; &lt;code&gt;logger = logging.getLogger(&amp;#39;demoapp&amp;#39;)&lt;/code&gt;&lt;br/&gt; &lt;code&gt;logging.getLogger(&amp;#39;paramiko&amp;#39;).setLevel(logging.WARNING)&lt;/code&gt; &lt;/p&gt; &lt;p&gt;&lt;code&gt;def file_name_from_sftp(hostname, username, password, folder):&lt;/code&gt;&lt;br/&gt; &lt;code&gt;file = &amp;#39;&amp;#39;&lt;/code&gt;&lt;br/&gt; &lt;code&gt;with pysftp.Connection(host=hostname, username=username, password=password, cnopts=cnopts) as sftp:&lt;/code&gt;&lt;br/&gt; &lt;code&gt;sftp.cwd(folder)&lt;/code&gt;&lt;br/&gt; &lt;code&gt;directory_structure = sftp.listdir_attr()&lt;/code&gt;&lt;br/&gt; &lt;code&gt;yesterday = datetime.strftime(datetime.now() - timedelta(1), &amp;#39;%d%m%y&amp;#39;)&lt;/code&gt;&lt;br/&gt; &lt;code&gt;for zip in directory_structure:&lt;/code&gt;&lt;br/&gt; &lt;code&gt;file = folder + zip.filename&lt;/code&gt;&lt;br/&gt; &lt;code&gt;zip_file = get_file(hostname=hostname, password=password, username=username, remoteFilePath=file)&lt;/code&gt;&lt;br/&gt; &lt;code&gt;with zipfile.ZipFile(zip_file, &amp;#39;r&amp;#39;) as zip_ref:&lt;/code&gt;&lt;br/&gt; &lt;code&gt;name_list = zip_ref.namelist()&lt;/code&gt;&lt;br/&gt; &lt;code&gt;for file in name_list:&lt;/code&gt;&lt;br/&gt; &lt;code&gt;if yesterday in file:&lt;/code&gt;&lt;br/&gt; &lt;code&gt;file = zip.filename&lt;/code&gt;&lt;br/&gt; &lt;code&gt;if file == &amp;#39;&amp;#39;:&lt;/code&gt;&lt;br/&gt; &lt;code&gt;raise Exception(&amp;#39;File not available in SFTP&amp;#39;)&lt;/code&gt;&lt;br/&gt; &lt;code&gt;return file&lt;/code&gt; &lt;/p&gt; &lt;p&gt;&lt;code&gt;def get_file(hostname, username, password, remoteFilePath, printTotals=None):&lt;/code&gt;&lt;br/&gt; &lt;code&gt;with pysftp.Connection(host=hostname, username=username, password=password, cnopts=cnopts) as sftp:&lt;/code&gt;&lt;br/&gt; &lt;code&gt;flo = io.BytesIO()&lt;/code&gt;&lt;br/&gt; &lt;code&gt;sftp.getfo(remoteFilePath, flo, callback=printTotals)&lt;/code&gt;&lt;br/&gt; &lt;code&gt;flo.seek(0)&lt;/code&gt;&lt;br/&gt; &lt;code&gt;return flo&lt;/code&gt; &lt;/p&gt; &lt;p&gt;&lt;code&gt;def upload_file(hostname, username, password, localFilePath, remoteFilePath):&lt;/code&gt;&lt;br/&gt; &lt;code&gt;with pysftp.Connection(host=hostname, username=username, password=password) as sftp:&lt;/code&gt;&lt;br/&gt; &lt;code&gt;sftp.put(localFilePath, remoteFilePath)&lt;/code&gt; &lt;/p&gt; &lt;p&gt;&lt;code&gt;def delete_file(hostname, username, password, filePath):&lt;/code&gt;&lt;br/&gt; &lt;code&gt;with pysftp.Connection(host=hostname, username=username, password=password) as sftp:&lt;/code&gt;&lt;br/&gt; &lt;code&gt;sftp.remove(filePath)&lt;/code&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/amparee&quot;&gt; /u/amparee &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f58ntm/best_way_to_connect_to_sftp/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f58ntm/best_way_to_connect_to_sftp/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f58ntm</id>
+        <link href="https://www.reddit.com/r/Python/comments/f58ntm/best_way_to_connect_to_sftp/" />
+        <updated>2020-02-17T13:22:04+00:00</updated>
+        <title>Best way to connect to sftp</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/CrazyGamer123456</name>
+            <uri>https://www.reddit.com/user/CrazyGamer123456</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/CrazyGamer123456&quot;&gt; /u/CrazyGamer123456 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://v.redd.it/oqqvhoh9jch41&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f4wq0r/my_first_programming_project_excuse_the_terrible/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f4wq0r</id>
+        <link href="https://www.reddit.com/r/Python/comments/f4wq0r/my_first_programming_project_excuse_the_terrible/" />
+        <updated>2020-02-16T20:32:59+00:00</updated>
+        <title>My first programming project (Excuse the terrible quality, my computer is a potato)</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/technicrat23</name>
+            <uri>https://www.reddit.com/user/technicrat23</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am working on a project and it involves me receiving comments/ messages from anonymous users amd i would like to use tlk.io for this. I want to use the tlk.io channel and web scrape the people s messages as text into a python program. Is there anyway i can take that part of the webpage as data and get the text required? Thanks in advance&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/technicrat23&quot;&gt; /u/technicrat23 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f58hfe/tlkio_web_scraping/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f58hfe/tlkio_web_scraping/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f58hfe</id>
+        <link href="https://www.reddit.com/r/Python/comments/f58hfe/tlkio_web_scraping/" />
+        <updated>2020-02-17T13:06:59+00:00</updated>
+        <title>tlk.io web scraping</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/abingham</name>
+            <uri>https://www.reddit.com/user/abingham</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/abingham&quot;&gt; /u/abingham &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://leanpub.com/aprendiz_de_python/c/completa&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f55x1s/new_python_book_in_spanish_nuevo_libro_de_python/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f55x1s</id>
+        <link href="https://www.reddit.com/r/Python/comments/f55x1s/new_python_book_in_spanish_nuevo_libro_de_python/" />
+        <updated>2020-02-17T08:46:09+00:00</updated>
+        <title>New Python book in Spanish / nuevo libro de Python en español - &quot;El Aprendiz de Python&quot;. 100 free copies are available right now.</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Migb1793</name>
+            <uri>https://www.reddit.com/user/Migb1793</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;What good libraries are there for Physics, Maths, Astrophysics Fields and what learning resources would you recommend to be able to write programs/scripts such as: Particle Collision + GUI simulation, Graphical Modeling + GUI &amp;amp; Celestial bodies Simulations...respectively.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Migb1793&quot;&gt; /u/Migb1793 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f52kud/python_for_physics_maths/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f52kud/python_for_physics_maths/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f52kud</id>
+        <link href="https://www.reddit.com/r/Python/comments/f52kud/python_for_physics_maths/" />
+        <updated>2020-02-17T03:41:57+00:00</updated>
+        <title>Python for Physics &amp; Maths</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/ektatic</name>
+            <uri>https://www.reddit.com/user/ektatic</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ektatic&quot;&gt; /u/ektatic &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://youtu.be/eb3hvOPNfGA&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f57z2g/solving_3_unknowns_lets_go/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f57z2g</id>
+        <link href="https://www.reddit.com/r/Python/comments/f57z2g/solving_3_unknowns_lets_go/" />
+        <updated>2020-02-17T12:21:00+00:00</updated>
+        <title>SOLVING 3 UNKNOWNS LETS GO</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/22yr</name>
+            <uri>https://www.reddit.com/user/22yr</uri>
+        </author>
+        <category term="Python" label="r/Python"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I was trying to run a chat server for some of my friends and I using sockets, however when I ran it I instantly began having random IPs connect running generic attacks to check for vulnerabilities. Is there any way to protect against this?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/22yr&quot;&gt; /u/22yr &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f53a0x/chat_server/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Python/comments/f53a0x/chat_server/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_f53a0x</id>
+        <link href="https://www.reddit.com/r/Python/comments/f53a0x/chat_server/" />
+        <updated>2020-02-17T04:40:01+00:00</updated>
+        <title>Chat Server</title>
+    </entry>
+</feed>
