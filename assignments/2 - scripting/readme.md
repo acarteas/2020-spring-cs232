@@ -8,7 +8,22 @@
     * Resulting list: A1T1, B1T1, B2T2, A2T3, B3T3, A3T4
 
 ## Buddy Assignments
-* TBD
+
+### Base requirement group
+* Adrian, Grayson, Robert
+
+### Web Scraping
+* Jakob, Peter, Sam, Sean, 
+
+### Adam Scraping
+* Adam, Justin, Jordan, David
+
+### Unsure Group
+*Drew, Summer, Shay
+
+### File ops
+* Xavier, Noah, 
+
 
 ## Grading
 This assignment is worth 50 points.  Your grade will be based on the following:
