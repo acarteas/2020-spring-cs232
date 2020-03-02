@@ -4,7 +4,7 @@ For this assignment, you will delve into the basics of data analysis using Pytho
 Note that as is often the case when performing data analysis, the data provided is incomplete -- not everyone who took the pre-test also took the post-test.  As such, you may have to "throw out" unmatched pre/post test pairs and "incomplete" records.  Making such decisions is left to your discretion.
 
 ## Minimum Requirements
-Your assignment will be graded based both on the script you develop to answer your questions as well as the writeup you provide.  In order to receive full credit, you must provide statistical analysis for the questions that I provide in the overview.  If you are doing your own analysis, you will be expected to provide an equivalent level of data analysis for your chosen dataset.  
+Your assignment will be graded based both on the script you develop to answer your questions as well as the writeup you provide.  The writeup should be in a Juypter notebook file.  Your code can also be there, but you may need to write separate scripts as well.  I leave that up to you.  In order to receive full credit, you must provide statistical analysis for the questions that I provide in the overview.  If you are doing your own analysis, you will be expected to provide an equivalent level of data analysis for your chosen dataset.  
 
 ## Buddy Assignments
 * Jordan Abbot, Naja Izquierdo, Sam Ramirez
