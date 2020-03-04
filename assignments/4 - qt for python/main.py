@@ -20,8 +20,17 @@ class MainWindow(QObject):
         #always remember to close files
         ui_file.close()
 
+        #add event listener to the 7 button
+        sevenButton = self.window.findChild(QPushButton, 'sevenButton')
+        sevenButton.clicked.connect(self.seven_button_clicked)
+
         #show window to user
         self.window.show()
+
+    def seven_button_clicked(self):
+        sevenButton = self.window.findChild(QPushButton, 'sevenButton')
+        accumulator = self.window.findChild(QLineEdit, 'accumulatorText')
+        accumulator.setText(sevenButton.text())
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
