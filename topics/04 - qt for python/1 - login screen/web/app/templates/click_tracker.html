@@ -1,0 +1,7 @@
+{% if data | count > 0 %}
+<p>You have clicked {{data["click_count"]}} times!</p>
+{% endif %}
+<form method="POST" action="/click_tracker">
+    <input type="hidden" name="click_count" value="{{data['click_count']}}" />
+    <button type="submit">Click me!</button>
+</form>

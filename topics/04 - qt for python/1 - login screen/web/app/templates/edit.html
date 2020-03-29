@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>My Web Site - Edit Page</title>
+    <meta name="description" content="My Web Site">
+</head>
+
+<body>
+    <form method="POST" action="/edit/{{data['page_name']}}">
+        <input type="text" value="{{data['page_name']}}" name="page_name" />
+        <textarea name="content">
+        {{data["content"]}}
+        </textarea>
+        {% if data["page_name"] == "" %}
+        <button type="submit">Create</button>
+        {% else %}
+        <button type="submit">Edit</button>
+        {% endif %}
+        
+    </form>
+</body>
+
+</html>
