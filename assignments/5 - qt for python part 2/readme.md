@@ -15,6 +15,8 @@ If you go this option, you need to add volume controls as well as proper play/st
 
 In building the basic prototype, I referred to the [QMediaPlayer](https://doc.qt.io/qtforpython/PySide2/QtMultimedia/QMediaPlayer.html?highlight=qmediaplayer#PySide2.QtMultimedia.QMediaPlayer) documentation and [QT Audio Overview](https://doc.qt.io/qt-5/audiooverview.html) page.
 
+[Watch a video that I recorded](https://humboldtstate.zoom.us/rec/play/vsd-drz6rDo3HdyRswSDA_5_W461Jqis03dM-qcFmEa1WnkFNFGjb7pGauuNWI8Ue_fI38oVdjCzoLhK?autoplay=true&startTime=1585504296000)
+
 ## Buddy Assignments
 Because we don't have live-class, checking in with buddies may be a little difficult.  Instead, you will be expected to post standups and communicate regularly on the [CS Club Discord server](https://discordapp.com/invite/V5WbbxD).  
 
