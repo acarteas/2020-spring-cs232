@@ -13,6 +13,8 @@ For this assignment, your task is to make the starter code better!  If you don't
 * Remember player's high score with initials between plays
 * ... my list could go on for a while but hopefully you get the idea
 
+**_NOTE_**: It is expected that you will complete several improvements to the video game.  Do not expect to get an A if you implement only one improvement! Also, be sure to inform me of the improvements that you made in your reflection as some improvements are more subtle than others.  
+
 ## Buddy Assignments
 Because we don't have live-class, checking in with buddies may be a little difficult.  Instead, you will be expected to post standups and communicate regularly on the [CS Club Discord server](https://discordapp.com/invite/V5WbbxD).  
 
